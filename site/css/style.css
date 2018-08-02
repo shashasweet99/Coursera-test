@@ -5,7 +5,7 @@ section {
 	background-color: grey;
 	box-sizing: border-box;
 }
-@media (min-width: 1200px){
+@media (min-width: 992px){
 	section {
 		float: left;
 		width: 32%;
@@ -13,7 +13,7 @@ section {
 	}
  /**Tablet size**/
 }
-@media (min-width: 768px) and (max-width: 1199px){
+@media (min-width: 768px) and (max-width: 991px){
 		section {
 			margin: 2%;
 		}
@@ -33,7 +33,7 @@ section {
 @media (max-width: 767px){
 	section {
 		margin: 2%; 
-		margin-left: 20px;
+		margin-left: 20  px;
 		width: 80%;
 	}
 }
